@@ -7,9 +7,6 @@
 - 🥅 2022 Goals: Become a full stack skilled developer💻
 - ⚡ Fun fact: I solve bugs from Stack-Overflow when I'm bored👾
 
-### Connect with me:
-
- <img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" / href= "https://github.com/">
 
 
 ## My GitHub Stats 📊
