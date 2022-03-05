@@ -3,9 +3,9 @@
 ## I'm a Student + Developer😎
 
 - 🔭 Check out my repository🤗
-- 🌱 I’m currently learning everything🥇
-- 🥅 2022 Goals: Become a full stack skilled developer💻
-- ⚡ Fun fact: I solve bugs from Stack-Overflow when I'm bored👾
+- 🌱 I’m currently learning EVERYTHING🥇
+- 🥅 2022 Goals: Become a Full Stack Skilled Developer💻
+- ⚡ Fun fact: I solve BUGS from STACK-OVERFLOW when I'm Bored👾
 
 
 
