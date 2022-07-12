@@ -7,7 +7,7 @@
 - 🥅 2022 Goals: Become a Full Stack Skilled Developer💻
 - ⚡ Fun fact: I solve BUGS from STACK-OVERFLOW when I'm Bored👾
 
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=nitishramaraj&label=PROFILE+VIEWS)
 
 
 
